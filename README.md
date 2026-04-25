@@ -1,5 +1,5 @@
 # CS 340 — Grazioso Salvare Animal Shelter Dashboard
-
+ 
 **Category:** Databases
 **Original course:** CS 340 — Advanced Programming Concepts
 
